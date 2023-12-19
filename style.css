@@ -41,4 +41,9 @@ body {
     color: #FFF;
     text-align: center;
     letter-spacing: 3px;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
 }
